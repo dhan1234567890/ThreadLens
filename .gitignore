@@ -1,0 +1,15 @@
+# Environments
+venv/
+env/
+.env
+__pycache__/
+
+# Database / Mock Data
+firewall_logs.csv
+ids_alerts.csv
+neo4j_data/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
